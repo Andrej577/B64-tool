@@ -14,7 +14,7 @@ Molimo vas da imate na umu da je **B64-Tool** side projekt i da je razvijen od s
 2. Navigirajte do putanje projekta:
 
    ```bash
-   cd pipenv-helper
+   cd B64-tool
 
 3. Pokrenite aplikaciju koristeći naredbu:
 
